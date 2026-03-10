@@ -3,6 +3,7 @@ A web application that extracts Safety Data Sheet (SDS) information using both *
 
 Upload a PDF → Extract structured SDS fields → Store → View → Manage.
 
+📄 PDF Input→🔍 Text Extraction→🧠 LLM Extraction→✅ Pydantic Validation→👁️ Human-in-the-Loop→🚀 FastAPI Layer→🐳 Docker + PostgreSQL
 ---
 
 ## 🚀 Features
